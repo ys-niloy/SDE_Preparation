@@ -12,4 +12,6 @@ int main()
 
 
     // rest of the functions are like vector
+
+    return 0;
 }
