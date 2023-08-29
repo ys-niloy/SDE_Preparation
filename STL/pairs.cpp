@@ -18,4 +18,5 @@ int main()
 
     cout << array[2].first;
 
+    return 0;
 }
