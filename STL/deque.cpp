@@ -30,4 +30,6 @@ int main()
     cout << "Deleting the last element" << endl;
     dq.pop_back();
     printdeque(dq);
+
+    return 0;
 }
